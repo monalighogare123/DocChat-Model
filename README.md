@@ -12,7 +12,7 @@ language, and get streamed answers with page-level citations.
 ![Dashboard Screenshot](screenshots/DocChat_output.png)
 
 ### Screenshot 2: Project Output
-![Project Output Screenshot](screenshots/DocChat_output1.png)
+![Project Output Screenshot](screenshots/DocChat_Output1.png)
 
 
 ## Features
